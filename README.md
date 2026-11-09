@@ -31,10 +31,7 @@ Criação de interfaces responsivas
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovarg&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-🐍 Minhas contribuições
-<div align="center">
-<img src="https://raw.githubusercontent.com/eduardovarg/eduardovarg/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
-</div>
+
 
 📫 Vamos nos conectar?
 💼 GitHub: @eduardovarg
